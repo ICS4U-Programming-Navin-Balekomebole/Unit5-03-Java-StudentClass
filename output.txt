@@ -1,0 +1,7 @@
+There are 6 students.
+Clara Klayton and is in this grade: 12 and does not have an iep.
+Bill A. Wilson and is in this grade: 12 and has an iep.
+Sirene Malkovic and is in this grade: 10 and does not have an iep.
+Moussa E. Nwga and is in this grade: 11 and has an iep.
+Navin Balekomebole and is in this grade: 12 and does not have an iep.
+Alex M and is in this grade: 12 and has an iep.
